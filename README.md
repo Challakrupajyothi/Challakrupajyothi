@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Challakrupajyothi
 - 👀 I’m interested in Data Analysts
 - 🌱 I’m currently learning sql, python
-- 💞️ I’m looking to collaborate on companies
-- 📫 How to reach me mail
+- 💞️ I’m looking to collaborate on Data science
+- 📫 How to reach me through mail
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: love eating
 
